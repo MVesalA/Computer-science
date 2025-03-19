@@ -1,2 +1,2 @@
-# Operating-System
+# Copputer-science
 Basic algorithms of OS such as SRTF, MLFQ, FCFS and ...
